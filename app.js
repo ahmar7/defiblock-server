@@ -13,7 +13,7 @@ app.use(cookieParser());
 
 let ALLOWED_ORIGINS = [
   "https://blockchain-frontend-one.vercel.app",
-  "defiblock.pro",
+  "https://defiblock.pro",
   "http://localhost:3000",
   "http://localhost:3001",
   "http://localhost:3002",
